@@ -1,0 +1,17 @@
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\bin\Debug\net6.0\DapperExample.DataAccess.deps.json
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\bin\Debug\net6.0\DapperExample.DataAccess.dll
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\bin\Debug\net6.0\DapperExample.DataAccess.pdb
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\bin\Debug\net6.0\DapperExample.Models.dll
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\bin\Debug\net6.0\DapperExample.Models.pdb
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\DapperExample.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\DapperExample.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\DapperExample.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\DapperExample.DataAccess.AssemblyInfo.cs
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\DapperExample.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\DapperExample.DataAccess.csproj.CopyComplete
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\DapperExample.DataAccess.dll
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\refint\DapperExample.DataAccess.dll
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\DapperExample.DataAccess.pdb
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\ref\DapperExample.DataAccess.dll
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\bin\Debug\net6.0\DapperExample.DataAccess.runtimeconfig.json
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.DataAccess\obj\Debug\net6.0\DapperExample.DataAccess.genruntimeconfig.cache

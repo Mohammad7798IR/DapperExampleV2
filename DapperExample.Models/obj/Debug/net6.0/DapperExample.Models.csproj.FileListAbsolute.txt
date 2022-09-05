@@ -1,0 +1,12 @@
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\bin\Debug\net6.0\DapperExample.Models.deps.json
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\bin\Debug\net6.0\DapperExample.Models.dll
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\bin\Debug\net6.0\DapperExample.Models.pdb
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\obj\Debug\net6.0\DapperExample.Models.csproj.AssemblyReference.cache
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\obj\Debug\net6.0\DapperExample.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\obj\Debug\net6.0\DapperExample.Models.AssemblyInfoInputs.cache
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\obj\Debug\net6.0\DapperExample.Models.AssemblyInfo.cs
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\obj\Debug\net6.0\DapperExample.Models.csproj.CoreCompileInputs.cache
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\obj\Debug\net6.0\DapperExample.Models.dll
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\obj\Debug\net6.0\refint\DapperExample.Models.dll
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\obj\Debug\net6.0\DapperExample.Models.pdb
+C:\Users\Mohammadali.Ebrahimz\source\repos\DapperExample.Sln\DapperExample.Models\obj\Debug\net6.0\ref\DapperExample.Models.dll

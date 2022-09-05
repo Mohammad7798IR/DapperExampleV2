@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wZzkWgssVYHPU7X8nt0HQjZVV1kKWjuPGRj+NPCc1vM=",
+  "Source": "DapperExample.Web",
+  "BasePath": "_content/DapperExample.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

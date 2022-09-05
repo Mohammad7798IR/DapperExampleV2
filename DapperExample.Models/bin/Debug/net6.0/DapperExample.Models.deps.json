@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DapperExample.Models/1.0.0": {
+        "runtime": {
+          "DapperExample.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DapperExample.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

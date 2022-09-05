@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Api\\DapperExample.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Api\\DapperExample.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Api\\DapperExample.Api.csproj",
+        "projectName": "DapperExample.Api",
+        "projectPath": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Api\\DapperExample.Api.csproj",
+        "packagesPath": "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohammadali.Ebrahimz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.samansalamat.ir/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.DataAccess\\DapperExample.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.DataAccess\\DapperExample.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.DataAccess\\DapperExample.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.DataAccess\\DapperExample.DataAccess.csproj",
+        "projectName": "DapperExample.DataAccess",
+        "projectPath": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.DataAccess\\DapperExample.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohammadali.Ebrahimz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.samansalamat.ir/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Models\\DapperExample.Models.csproj": {
+                "projectPath": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Models\\DapperExample.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Models\\DapperExample.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Models\\DapperExample.Models.csproj",
+        "projectName": "DapperExample.Models",
+        "projectPath": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Models\\DapperExample.Models.csproj",
+        "packagesPath": "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohammadali.Ebrahimz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.samansalamat.ir/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
