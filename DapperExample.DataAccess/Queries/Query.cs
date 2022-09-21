@@ -9,22 +9,20 @@ namespace DapperExample.DataAccess.Queries
     public static class Query
     {
         public const string GetUserAndRoles =
-             
-             @"select Users.Id,Users.UserName,UserRoles.Role from Users
-             left join UserRoles on Users.Id = UserRoles.UserId
-             where Users.Id=@Id";
+              @"select Users.Id,Users.UserName,UserRoles.Role from Users
+               left join UserRoles on Users.Id = UserRoles.UserId
+               where Users.Id=@Id";
 
         public const string GetAllUsers =
-             @"SELECT * FROM dbo.[Users];";
+              @"SELECT * FROM dbo.[Users];";
 
         public const string GetUserById =
-             @"SELECT * FROM dbo.[Users] WHERE Id=@id";
-
+              @"SELECT * FROM dbo.[Users] WHERE Id=@id";
 
         public const string InsertUser =
               @"INSERT INTO dbo.[Users]
-              (UserName, CreatedAt, UpdateAt)
-              VALUES(@UserName, GETDATE(), GETDATE())";
+               (UserName, CreatedAt, UpdateAt)
+               VALUES(@UserName, GETDATE(), GETDATE())";
 
         public const string UpdateUser =
               @"Update dbo.[Users]

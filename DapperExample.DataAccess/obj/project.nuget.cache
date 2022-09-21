@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/4RH98HIl8PmHiPzzoSh0XBMZl4gyqynlyzllAhapmeiQSD8gFRnUjYcsFaRGUoeU1tO6fjNM+he9QPbtA9jrw==",
+  "dgSpecHash": "0iYpwEgLtNnBH6hrV7Nd0h2fGiVmmL745ffDMSBdSjgayJZkgpX1QHdgleR95FfQoq9F14QFCv5ne/irRG9oCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mohammadali.Ebrahimz\\source\\repos\\DapperExample.Sln\\DapperExample.DataAccess\\DapperExample.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
     "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
@@ -35,6 +36,7 @@
     "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\quartz\\3.5.0\\quartz.3.5.0.nupkg.sha512",
     "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Mohammadali.Ebrahimz\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

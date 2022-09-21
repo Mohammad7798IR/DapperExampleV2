@@ -2,11 +2,7 @@
 using DapperExample.Models.DTOs;
 using DapperExample.Models.Entites;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace DapperExample.Api.Controllers
 {
@@ -14,12 +10,23 @@ namespace DapperExample.Api.Controllers
     [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
+
+        #region Fields
+
         private readonly IUserRepository _userRepository;
+
+        #endregion
+
+        #region Ctor
 
         public UserController(IUserRepository userRepository)
         {
             _userRepository = userRepository;
         }
+
+        #endregion
+
+        #region Method [s]
 
         [HttpGet]
         public async Task<List<User>> GetAll()
@@ -56,7 +63,10 @@ namespace DapperExample.Api.Controllers
         [Route("GetUserRoles/{id:int}")]
         public async Task<IActionResult> GetUserRoles(int id)
         {
-            return Ok(await _userRepository.GetUserAndUserRoles(id, "GetUserAndRoles"));
+            return Ok(await _userRepository.GetUserAndUserRoles(id));
         }
+
+        #endregion
+
     }
 }

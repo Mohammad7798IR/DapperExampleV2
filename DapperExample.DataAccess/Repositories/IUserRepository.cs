@@ -18,6 +18,6 @@ namespace DapperExample.DataAccess.Repositories
 
         Task Update(int id,UpdateDto updateDto);
 
-        Task<User> GetUserAndUserRoles(int id, string queryName);
+        Task<User> GetUserAndUserRoles(int id);
     }
 }

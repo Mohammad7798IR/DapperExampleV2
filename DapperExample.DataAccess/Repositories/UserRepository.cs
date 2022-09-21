@@ -64,7 +64,7 @@ namespace DapperExample.DataAccess.Repositories
 
         }
 
-        public async Task<User> GetUserAndUserRoles(int id, string queryName)
+        public async Task<User> GetUserAndUserRoles(int id)
         {
             using IDbConnection connection = new SqlConnection
           (_configuration.GetSection("ConnectionStrings")["DefaultConnectionStrings"]);
@@ -75,6 +75,10 @@ namespace DapperExample.DataAccess.Repositories
                (await connection.QueryAsync<User, UserRole, User>
                 (Query.GetUserAndRoles, map: (User, UserRole) =>
               {
+
+                  if (UserRole == null)
+                      return User;
+                
                   UserRole.UserId = User.Id;
 
 
@@ -90,8 +94,8 @@ namespace DapperExample.DataAccess.Repositories
                   User.UserRoles.Add(UserRole);
                   return User;
 
-              }
-              , splitOn: "Role", param: new { Id = id })).FirstOrDefault();
+              },
+                 splitOn: "Role", param: new { Id = id })).FirstOrDefault();
         }
 
         #endregion
